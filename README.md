@@ -12,7 +12,7 @@ O objetivo foi criar uma Pokédex interativa utilizando **HTML, CSS e JavaScript
 ## 🛠 Funcionalidades
 - Buscar Pokémons por nome ou ID
 - Exibir informações como nome, imagem e tipo 
-- Navegar entre Pokémons através de botões de próximo e anterior
+- Navegar entre Pokémons através do botão LoadMore
 - Interface responsiva e amigável
 
 ## 📚 Como Executar o Projeto
